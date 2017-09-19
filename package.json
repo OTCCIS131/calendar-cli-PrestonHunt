@@ -1,0 +1,26 @@
+{
+  "name": "calendar-cli-prestonhunt",
+  "version": "1.0.0",
+  "description": "calendar-cli-PrestonHunt",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-range": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/calendar-cli-PrestonHunt.git"
+  },
+  "author": "Preston Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/calendar-cli-PrestonHunt/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/calendar-cli-PrestonHunt#readme"
+}
